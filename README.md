@@ -1,7 +1,7 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=썩지않는사과%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=53&descAlign=70)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=썩지않는사과%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=53&descAlign=70)  
+블로그 :  https://ykh9871.tistory.com/
   
 ## 💻 기술 스택
 
